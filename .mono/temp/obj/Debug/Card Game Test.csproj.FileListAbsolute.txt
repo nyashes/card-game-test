@@ -1,0 +1,9 @@
+D:\Game Projects\Card Game Test\.mono\temp\bin\Debug\Card Game Test.dll
+D:\Game Projects\Card Game Test\.mono\temp\bin\Debug\Card Game Test.pdb
+D:\Game Projects\Card Game Test\.mono\temp\obj\Debug\Card Game Test.csproj.AssemblyReference.cache
+D:\Game Projects\Card Game Test\.mono\temp\obj\Debug\Card Game Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game Projects\Card Game Test\.mono\temp\obj\Debug\Card Game Test.AssemblyInfoInputs.cache
+D:\Game Projects\Card Game Test\.mono\temp\obj\Debug\Card Game Test.AssemblyInfo.cs
+D:\Game Projects\Card Game Test\.mono\temp\obj\Debug\Card Game Test.csproj.CoreCompileInputs.cache
+D:\Game Projects\Card Game Test\.mono\temp\obj\Debug\Card Game Test.dll
+D:\Game Projects\Card Game Test\.mono\temp\obj\Debug\Card Game Test.pdb

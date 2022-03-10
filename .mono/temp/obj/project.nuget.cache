@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mDJPkmgWbx0SgyX+DBzHcItDqhyrT0dQm4AJUUAAGAbZIcW+wOWpHcfbzerpG/2Ws+4ZoEc0Lrg+PFS3hlzeEQ==",
+  "success": true,
+  "projectFilePath": "D:\\Game Projects\\Card Game Test\\Card Game Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nyashes\\.nuget\\packages\\godot.net.sdk\\3.3.0\\godot.net.sdk.3.3.0.nupkg.sha512",
+    "C:\\Users\\Nyashes\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Nyashes\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

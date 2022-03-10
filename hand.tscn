@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://hand.cs" type="Script" id=1]
+
+[node name="HBoxContainer" type="HBoxContainer"]
+margin_right = 700.0
+margin_bottom = 180.0
+rect_min_size = Vector2( 400, 180 )
+script = ExtResource( 1 )
