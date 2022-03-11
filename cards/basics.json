@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Quick Attack",
+        "hp": 1,
+        "energy": 2,
+        "action": 0
+    },
+    {
+        "name": "Heavy Attack",
+        "hp": 3,
+        "energy": 3,
+        "action": 1
+    },
+    {
+        "name": "Wild Strike",
+        "hp": 2,
+        "energy": 3,
+        "action": 1
+    },
+    {
+        "name": "All In",
+        "action": 2
+    },
+    {
+        "name": "Sucker Punch",
+        "hp": 2,
+        "energy": 2,
+        "action": 1
+    },
+    {
+        "name": "Guard Break",
+        "hp": 1,
+        "energy": 2,
+        "action": 1
+    },
+    {
+        "name": "Sweeping Strike",
+        "hp": 2,
+        "energy": 4,
+        "action": 2
+    },
+    {
+        "name": "Follow Up",
+        "hp": 2,
+        "energy": 1,
+        "action": 1
+    },
+    {
+        "name": "Opportunity",
+        "energy": 1,
+        "action": 1
+    },
+    {
+        "name": "Overextend",
+        "hp": 3,
+        "energy": 3,
+        "action": 1
+    },
+    {
+        "name": "Gash",
+        "hp": 2,
+        "energy": 2,
+        "action": 1
+    },
+    {
+        "name": "Wink",
+        "lust": 1,
+        "energy": 2,
+        "action": 0
+    },
+    {
+        "name": "Flaunt",
+        "lust": 3,
+        "energy": 3,
+        "action": 1
+    },
+    {
+        "name": "Stroke",
+        "lust": 3,
+        "energy": 2,
+        "action": 2
+    },
+    {
+        "name": "Lap Ride",
+        "action": 2
+    },
+    {
+        "name": "Pickup Line",
+        "lust": 2,
+        "energy": 2,
+        "action": 1
+    },
+    {
+        "name": "Seduce",
+        "lust": 2,
+        "energy": 2,
+        "action": 1
+    },
+    {
+        "name": "Lead On",
+        "lust": 2,
+        "energy": 1,
+        "action": 1
+    },
+    {
+        "name": "Pinch",
+        "lust": 1,
+        "hp": 1,
+        "energy": 2,
+        "action": 0
+    },
+    {
+        "name": "Whip",
+        "lust": 1,
+        "hp": 2,
+        "energy": 2,
+        "action": 1
+    },
+    {
+        "name": "Squeeze",
+        "lust": 2,
+        "hp": 1,
+        "energy": 2,
+        "action": 1
+    }
+]

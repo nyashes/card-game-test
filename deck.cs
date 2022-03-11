@@ -1,6 +1,7 @@
 using Godot;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 static class ShuffleContainer
 {
@@ -36,11 +37,16 @@ class deck
         decklist.Shuffle();
     }
 
+    public void populate2()
+    {
+        decklist = card_parser.parseCard("cards/basics.json").ToList();
+    }
+
     public card_base draw()
     {
         if (decklist.Count <= 0)
         {
-            populate();
+            populate2();
         }
 
         card_base ret = decklist[decklist.Count - 1];

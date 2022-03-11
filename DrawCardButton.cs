@@ -16,7 +16,7 @@ public class DrawCardButton : Button
         playerHand = (hand)GetParent().FindNode("playerHand");
         randomizer = new Random();
         deck = new deck();
-        deck.populate();
+        deck.populate2();
         Connect("pressed", this, "_draw_card");
         this.playerHand.AddChild(this.deck.draw());
         this.playerHand.AddChild(this.deck.draw());
